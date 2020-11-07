@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dark Mode</string>
+    <string name="sun">Sun</string>
+    <string name="dialog">Dialog</string>
+    <string name="moon">Moon</string>
+    <string name="snack_bar">Snack Bar</string>
+    <string name="info">You can change application style using system dark or light modes</string>
+    <string name="switcher">Switcher</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sunFragment"
+        android:icon="@drawable/ic_sun"
+        android:enabled="true"
+        android:title="@string/sun" />
+
+    <item
+        android:id="@+id/moonFragment"
+        android:icon="@drawable/ic_moon"
+        android:enabled="true"
+        android:title="@string/moon" />
+</menu>
